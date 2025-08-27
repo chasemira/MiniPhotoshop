@@ -45,7 +45,7 @@ python mini_photoshop.py
 4. View original and modified images side by side
 
 ## Demo
-[![Watch the video](https://raw.githubusercontent.com/chasemira/MiniPhotoshop/main/miniphotoshop.png)](https://github.com/chasemira/MiniPhotoshop/blob/main/MiniPhotoShopDemo.mp4)
+![MiniPhotoShop Demo](https://github.com/chasemira/MiniPhotoshop/raw/main/MiniPhotoShopDemo.gif)
 
 ## Supported Formats
 
